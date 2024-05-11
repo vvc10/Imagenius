@@ -14,7 +14,7 @@ Imagenius is an AI-powered art generator driven by Stable Diffusion technology, 
 
 <img width="712" alt="Screenshot 2024-02-15 181047" src="https://github.com/vvc10/Imagenius/assets/100217037/e028b941-0621-42a4-930b-0935146e00c2">
 
-1. Visit [Imagenius.qnagenius.com](https://Imagenius.winkapp.pro) to access the Imagenius AI Art Generator.
+1. Visit [Imagenius.qnagenius.com](http://imagenius.winkapp.pro/) to access the Imagenius AI Art Generator.
 
 2. Input your Image description as prompt or use 'Surprise me' button for inspiration.
 
